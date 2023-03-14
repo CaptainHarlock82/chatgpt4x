@@ -170,46 +170,46 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    "This project's photorealistic metahuman AI assistant offers a highly responsive and cutting-edge solution in the virtual AI assistant crypto industry.",
+    name: "Don Prescott",
+    designation: "Analyst",
+    company: "LA Capital",
+    image: "https://randomuser.me/api/portraits/men/40.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Their integrated DeFi platform, combined with the AI assistant app, provides a seamless and intuitive way to access and manage cryptocurrency assets while leveraging AI technology.",
+    name: "Julie Mckinney",
+    designation: "Strategist",
+    company: "Dice",
+    image: "https://randomuser.me/api/portraits/women/1.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+    "Their XR compatibility takes it one step further, providing an immersive and interactive experience that combines the physical and digital worlds, offering endless possibilities.",
+    name: "Cassandra Mccoy",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "422 Enterprises",
+    image: "https://randomuser.me/api/portraits/women/68.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "MetaHuman",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Our photorealistic metahuman AI assistant is an innovative solution that combines advanced AI technology with cutting-edge graphics to create a virtual assistant that is both functional and aesthetically pleasing. With its ability to understand natural language, process information, and display human-like facial expressions, our metahuman AI assistant provides an engaging and intuitive user experience. Whether you need help with everyday tasks or just want a friendly conversation partner, our AI assistant is always at your service.",
     tags: [
       {
-        name: "react",
+        name: "Photorealistic",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "AI Assistant",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "APP",
         color: "pink-text-gradient",
       },
     ],
@@ -217,20 +217,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Defi Platform",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Our integrated DeFi platform offers a comprehensive suite of decentralized finance solutions in one place. With features such as lending, borrowing, staking, and more, our platform provides users with a seamless and intuitive way to access and manage their cryptocurrency assets. Our platform is built on top of the blockchain, ensuring that transactions are secure and transparent, and that users have full control over their funds. Our integrated DeFi platform has everything you need to take your cryptocurrency experience to the next level.",
     tags: [
       {
-        name: "react",
+        name: "Defi",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "AI Tools",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Full-Stack",
         color: "pink-text-gradient",
       },
     ],
@@ -238,20 +238,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "XR Compatible",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Our XR compatible platform is designed to provide an immersive and interactive experience that combines the physical and digital worlds. Using extended reality (XR) technology, our platform offers users a seamless way to access and engage with digital content in a real-world setting. Our XR platform is compatible with a range of devices, including VR headsets, AR glasses, and mobile devices, making it accessible to a wide audience. Whether you're looking to explore a new city, attend a virtual event, or simply immerse yourself in a new world.",
     tags: [
       {
-        name: "nextjs",
+        name: "XR",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Virtual World",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Beyond",
         color: "pink-text-gradient",
       },
     ],

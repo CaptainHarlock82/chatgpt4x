@@ -19,8 +19,10 @@ const Hero = () => {
             ChatGPT4<span className='text-[#915EFF]'>X</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            AI Project That Advances <br className='sm:block hidden' />
-            Human Progress
+            AI Project That Advances Human Progress <br className='sm:block hidden' />
+            <br className='sm:block hidden' />
+            <span className='text-[#915EFF]'>Telegram</span>
+            <br className='sm:block hidden' /><span className='text-[#915EFF]'>Twitter</span>
           </p>
         </div>
       </div>
